@@ -20,7 +20,7 @@
     <PackageProjectUrl>https://fibula-mmo.github.io/</PackageProjectUrl>
     <RepositoryUrl>https://github.com/Fibula-MMO/fibula-data-access</RepositoryUrl>
     <RepositoryType>GitHub</RepositoryType>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <NeutralLanguage>en</NeutralLanguage>
     <Description>Contains abstractions that involve data access in the Fibula project.</Description>
   </PropertyGroup>
@@ -38,7 +38,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Fibula.Definitions" Version="1.0.4" />
+    <PackageReference Include="Fibula.Definitions" Version="1.0.6" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.3" />
     <PackageReference Include="StyleCop.Analyzers" Version="1.1.118">
       <PrivateAssets>all</PrivateAssets>
